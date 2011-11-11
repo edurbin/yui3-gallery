@@ -1,0 +1,1 @@
+YUI.add("gallery-array-slider",function(a){a.ArraySlider=a.Base.build("slider",a.SliderTickBase,[a.SliderArrayRange,a.ClickableRail]);},"@VERSION@",{skinnable:false,requires:["gallery-slider-tick-base","clickable-rail","gallery-slider-array-range"]});
